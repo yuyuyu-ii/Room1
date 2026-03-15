@@ -12,4 +12,8 @@ Some of the images used in the collage sprites are from Wikipedia Commons contri
   used under CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>
 - Barrère P. Ornithologiae. (1745) {PD-US-expired} uploaded by Valérie 75
   available at: https://upload.wikimedia.org/wikipedia/commons/0/06/Barr%C3%A8re_Pierre_1690-1755_Ornithologiae.png
-  
+
+
+### License of this work
+
+Room1 is licensed under CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0> by yuyuyu-ii.
